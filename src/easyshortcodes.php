@@ -2,8 +2,7 @@
 /**
  * @version 	0.0.1
  * @author 		Valentín García https://htmgarcia.com
- * @copyright 	Copyright (C) 2007 - 2020 RocketTheme, LLC
- * 				Copyright (C) 2022 Valentín García
+ * @copyright 	Copyright (C) 2022 Valentín García
  * @license 	http://www.gnu.org/licenses/gpl-2.0.html
  */
 
@@ -13,7 +12,7 @@ defined('_JEXEC') or die;
 use Joomla\CMS\Plugin\CMSPlugin;
 use Joomla\CMS\Factory;
 
-class PlgSystemRokcandy extends CMSPlugin {
+class PlgSystemEasyshortcodes extends CMSPlugin {
 
 	var $_library;
 
