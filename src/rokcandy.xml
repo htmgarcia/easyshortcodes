@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="4.0" type="plugin" group="system" method="upgrade">
+	<name>System - RokCandy</name>
+	<creationDate>January 20, 2022</creationDate>
+	<author>Valentín García</author>
+	<authorEmail>htmgarcia@gmail.com</authorEmail>
+	<authorUrl>https://htmgarcia.com</authorUrl>
+	<copyright>(C) 2022 Valentín García. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<version>0.0.1</version>
+	<description>This is the shortcode system plugin that performs the macro replacement based on RokCandy plugin.</description>
+	<files>
+		<filename plugin="rokcandy">rokcandy.php</filename>
+	</files>
+</extension>
