@@ -1,6 +1,6 @@
 <?php
 /**
- * @version 	0.0.1
+ * @version 	1.0.0
  * @author 		Valentín García https://htmgarcia.com
  * @copyright 	Copyright (C) 2022 Valentín García
  * @license 	http://www.gnu.org/licenses/gpl-2.0.html

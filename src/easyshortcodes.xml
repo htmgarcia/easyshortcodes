@@ -7,7 +7,7 @@
 	<authorUrl>https://htmgarcia.com</authorUrl>
 	<copyright>(C) 2022 Valentín García. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later</license>
-	<version>0.0.1</version>
+	<version>1.0.0</version>
 	<description>This is the Easy Shortcodes system plugin that performs the macro replacements from a shortcodes.ini file. Based on RokCandy plugin.</description>
 	<files>
 		<filename plugin="easyshortcodes">easyshortcodes.php</filename>
