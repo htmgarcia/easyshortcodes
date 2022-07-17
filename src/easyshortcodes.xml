@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="4.0" type="plugin" group="system" method="upgrade">
 	<name>System - Easy Shortcodes</name>
-	<creationDate>January 20, 2022</creationDate>
+	<creationDate>July 17, 2022</creationDate>
 	<author>Valentín García</author>
 	<authorEmail>htmgarcia@gmail.com</authorEmail>
 	<authorUrl>https://htmgarcia.com</authorUrl>
 	<copyright>(C) 2022 Valentín García. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later</license>
-	<version>1.0.0</version>
+	<version>1.1.0</version>
 	<description>This is the Easy Shortcodes system plugin that performs the macro replacements from a shortcodes.ini file. Based on RokCandy plugin.</description>
 	<files>
 		<filename plugin="easyshortcodes">easyshortcodes.php</filename>
 	</files>
+	<updateservers>
+		<server type="extension" priority="1" name="Easy Shortcodes Updates"><![CDATA[http://htmgarcia.github.io/joomla/updates/plg_system_easyshortcodes.xml]]></server>
+	</updateservers>
 </extension>
